@@ -501,7 +501,7 @@ body {
     }
 
     .hero p {
-        width: 400px;
+        width: 350px;
     }
 
     body {
@@ -579,7 +579,7 @@ body {
     }
 
     .container {
-        padding: 5px;
+       
     }
     .commets-title h2 {
         
@@ -588,5 +588,11 @@ body {
         line-height: 32px;
        
     
+    }
+    .hero-title h1{
+        width: 340px;
+    }
+    .logo img{
+        width: 150px;
     }
 }
